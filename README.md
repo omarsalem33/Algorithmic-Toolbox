@@ -1,6 +1,6 @@
 # Algorithmic-Toolbox
 
-Assignments for Algorithmic Toolbox on Coursera </br>
+## Assignments for Algorithmic Toolbox on Coursera </br>
 
 
 ## [Week 1](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week1/week1_programming_challenges.pdf)</br>
