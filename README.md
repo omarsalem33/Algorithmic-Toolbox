@@ -2,7 +2,6 @@
 
 Assignments for Algorithmic Toolbox on Coursera </br>
 
-<strong>Note:</strong> All of my assignments has been submitted successfully. 
 
 ## [Week 1](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week1/week1_programming_challenges.pdf)</br>
 
