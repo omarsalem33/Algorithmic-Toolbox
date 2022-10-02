@@ -28,4 +28,23 @@ Advanced Problem: [Last_Digit_Of_The_Sum_Of_Fibonacci_Numbers_Again](https://git
 
 Advanced Problem: [Last_Digit_Of_The_Sum_Of_Squares_Of_Fibonacci_Numbers](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week2/8-%20last_digit_of_the_sum_of_squares_of_fibonacci_numbers.cpp)</br>
 
+## [Week 3](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week3/week3_greedy_algorithms.pdf)</br>
+###  Prgramming Assignment:
+Problem: [Money_Change](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week3/1-%20money_change.cpp)</br>
+
+Problem: [Maximum_Value_of_the_Loot](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week3/2-%20Maximum_Value_of_the_Loot.cpp)</br>
+
+Problem: [Car_Fueling](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week3/3-%20Car%20Fueling.cpp)</br>
+
+Problem: [Maximum_Advertisemet_Revenue](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week3/4-%20Maximum_Advertisemet_Revenue.cpp)</br>
+
+Problem: [Collecting_Signatures](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week3/5-%20%20Collecting_Signatures.cpp)</br>
+
+Problem: [Maximum_Number_of_Prizes](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week3/6-%20Maximum_Number_of_Prizes.cpp)</br>
+
+Problem: [Maximum_Salary](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week3/7-%20Maximum_Salary.cpp)</br>
+
+
+
+
 
