@@ -46,5 +46,30 @@ Problem: [Maximum_Salary](https://github.com/omarsalem33/Algorithmic-Toolbox/blo
 
 
 
+## [Week 4](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/toolbox_statements.pdf)</br>
+###  Prgramming Assignment:
+Problem: [Binary_Search](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week4/1-binary_search.cpp)</br>
+
+Problem: [Binary_Search2](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week4/2-binary_search.cpp)</br>
+
+Problem: [Majority_Element](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week4/3-majority_element.cpp)</br>
+
+Problem: [Sorting](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week4/4-sorting.cpp)</br>
+
+Problem: [Inversions](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week4/5-inversions.cpp)</br>
+
+Problem: [points_and_segments](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week4/6-points_and_segments.cpp)</br>
 
 
+## [Week 5](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/toolbox_statements.pdf)</br>
+###  Prgramming Assignment:
+
+Problem: [Change_DP](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week5/1-change_dp.cpp)</br>
+
+Problem: [Primitive_Calculator](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week5/2-primitive_calculator.cpp)</br>
+
+Problem: [Edit_Distance](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week5/3-edit_distance.cpp)</br>
+
+Problem: [LCS2](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week5/4-lcs2.cpp)</br>
+
+Problem: [LCS3](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week5/5-lcs3.cpp)</br>
