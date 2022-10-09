@@ -73,3 +73,22 @@ Problem: [Edit_Distance](https://github.com/omarsalem33/Algorithmic-Toolbox/blob
 Problem: [LCS2](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week5/4-lcs2.cpp)</br>
 
 Problem: [LCS3](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week5/5-lcs3.cpp)</br>
+
+
+## [Week 5](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/toolbox_statements.pdf)</br>
+###  Prgramming Assignment:
+
+Problem: [Maximum_Amount_Of_Gold](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week6/1-knapsack.cpp)</br>
+
+Problem: [Maximum_Value_Of_An_Arithmetic_Expression](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Algorithmic%20Toolbox/week6/3-placing_parentheses.cpp)</br>
+
+
+## 🎉🎈 Certification 
+
+![coursera algorithmic toolbox certification-page-001](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Certification.pdf)
+
+## License
+
+> This software is licensed under MIT License, See [License](https://github.com/omarsalem33/Algorithmic-Toolbox/blob/main/Certification.pdf) 
+
+
